@@ -56,7 +56,7 @@ GET https://{api-gateway-id}.execute-api.{region}.amazonaws.com/prod/api/classif
 ## Deployment
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/Goodluck101/numberFunFactAPI.git
+git clone https://github.com/Goodluck101/number-classifier-api.git
 cd number-classifier-api
 ```
 
