@@ -10,6 +10,9 @@ The **Number Classification API** is a RESTful API that receives a number and re
 
 The API is deployed on **AWS Lambda** and exposed using **AWS API Gateway**.
 
+# NB: Complete Documentation for this Project can be found on my blog (Link below):
+https://dev.to/goodluck_ekeoma_2c98866d0/building-a-serverless-number-classification-api-with-aws-lambda-and-api-gateway-20fh
+
 ## Features
 - Classifies numbers based on mathematical properties.
 - Provides a fun fact about the number.
